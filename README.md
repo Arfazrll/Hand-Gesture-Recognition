@@ -91,8 +91,7 @@ hands = mp_hands.Hands(
 
 ## 🤝 Contributions
 
-Feel free to fork this repository, submit pull requests, or open issues for suggestions and improvements. <br>
-Thank You :) 
+Feel free to fork this repository, submit pull requests, or open issues for suggestions and improvements. Thank You :) 
 
 ---
 
